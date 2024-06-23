@@ -1,0 +1,12 @@
+.firebaseui-form-actions .mdl-button--raised.mdl-button--colored.firebaseui-button {
+    background: #3e8ed0;
+    color: white !important;
+  }
+
+.firebaseui-button {
+    color: #3e8ed0 !important;
+}
+
+.firebaseui-textfield.mdl-textfield .firebaseui-label:after {
+    background-color: #3e8ed0 !important;
+}
